@@ -1,7 +1,7 @@
 fun main(){
     var a: Int = 22
     var b: Float= 1.5f
-    var c: Char= 'T'
+    var c: Char= 'P'
     var d: String= "HMS"
     var e: Boolean= false
     var f: Double=96.36
